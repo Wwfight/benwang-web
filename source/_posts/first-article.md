@@ -2,7 +2,7 @@
 title: 2019-7-26 第一篇博文
 date: 2019-07-26 10:55:51
 author: benwang
-img: http://yun.benwang.wang/images/banner.png
+img: http://yun.benwang.wang/images/banner.jpg
 cover: true
 summary: 第一篇博文，简单自我介绍
 tags:
