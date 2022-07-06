@@ -1,3 +1,3 @@
 # benwang-web
 个人网站
-http://benwang.wang/
+http://dev.benwang.wang/web
